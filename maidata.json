@@ -2842,14 +2842,18 @@
   },
   {
     "title": "Help me, ERINNNNNN!!",
-    "artist": "ビートまりお(COOL＆CREATE)",
+    "artist": "ビートまりお",
     "category": "东方Project",
-    "image_file": "58e2f5be569854ca.png",
+    "image_file": "4911d20e27cad7a0.png",
     "lev_bas": "5",
     "lev_adv": "6",
     "lev_exp": "10",
     "lev_mas": "11+",
-    "version": "GreeN"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "10+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
   },
   {
     "title": "ナイト・オブ・ナイツ (Cranky Remix)",
@@ -5361,7 +5365,11 @@
     "lev_exp": "9+",
     "lev_mas": "13",
     "lev_remas": "14",
-    "version": "ORANGE"
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
   },
   {
     "title": "Death Scythe",
@@ -14133,6 +14141,105 @@
     "dx_lev_adv": "8",
     "dx_lev_exp": "11+",
     "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "有明/Ariake",
+    "artist": "SIINCA",
+    "category": "舞萌",
+    "image_file": "2e4769fb4445584c.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2025"
+  },
+  {
+    "title": "あいたい星人",
+    "artist": "DECO*27",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "1bc129c66ee45843.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "6",
+    "dx_lev_exp": "9+",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "超最終鬼畜妹フランドール・S",
+    "artist": "ビートまりお×まろん",
+    "category": "东方Project",
+    "image_file": "6cf3e3f842e52194.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12+",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Destined Marionette",
+    "artist": "ビートまりお",
+    "category": "其他游戏",
+    "image_file": "7fa4a3f8246030ce.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "DATAERR0R",
+    "artist": "Cosmograph",
+    "category": "其他游戏",
+    "image_file": "e3da5b1f49b33f3b.png",
+    "dx_lev_bas": "5",
+    "dx_lev_adv": "8",
+    "dx_lev_exp": "11+",
+    "dx_lev_mas": "14",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Tidal Wave",
+    "artist": "D-Cee",
+    "category": "音击/中二节奏",
+    "image_file": "4de17653f977fcaa.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "12",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "ハオ",
+    "artist": "DECO*27",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "97298d8f5ff9e33c.png",
+    "dx_lev_bas": "3",
+    "dx_lev_adv": "7",
+    "dx_lev_exp": "10",
+    "dx_lev_mas": "13",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+    "artist": "SAWTOWNE",
+    "category": "niconico＆VOCALOID™",
+    "image_file": "8e331bc031a26ae5.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "13+",
+    "version": "舞萌DX 2026"
+  },
+  {
+    "title": "Overjoy ★ OVERDOSE!!",
+    "artist": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)",
+    "category": "其他游戏",
+    "image_file": "b2c3bad6c7f6d2c7.png",
+    "dx_lev_bas": "4",
+    "dx_lev_adv": "7+",
+    "dx_lev_exp": "11",
+    "dx_lev_mas": "14",
     "version": "舞萌DX 2026"
   }
 ]
